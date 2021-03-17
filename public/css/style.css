@@ -1,0 +1,28 @@
+.wrapperdiv {
+    padding-top: 60px;
+    /* background-color: #e3f2fd; */
+    background-attachment: fixed;
+    background-image: url("../image/bgimage_1.jpg");
+    background-color: #cccccc;
+}
+.formcontainer {
+    width: 40%;
+    margin: 0 auto;
+}
+.img-thumbnail {
+    width: 80px;
+}
+
+.back_btn{
+    margin-top: 10px;
+}
+
+.table{
+    color: azure !important;
+    font-weight: 500;
+}
+.col-form-control{
+    color: azure;
+    font-weight: 500;
+
+}
